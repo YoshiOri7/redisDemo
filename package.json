@@ -1,0 +1,24 @@
+{
+  "name": "redisDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshiOri7/redisDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoshiOri7/redisDemo/issues"
+  },
+  "homepage": "https://github.com/YoshiOri7/redisDemo#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "redis": "^2.6.5"
+  }
+}
